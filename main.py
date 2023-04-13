@@ -9,3 +9,5 @@ with open('message.txt' , 'r') as Msg:
         msg = msg[msg.index('C')+1::]
 
     print(d_msg)
+    
+# final output is: Mc_is_the_BeSt
